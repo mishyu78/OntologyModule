@@ -1,0 +1,17 @@
+"firsttask" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "addition" .
+"elementary" <http://xmlns.com/foaf/0.1/name> "elementary" .
+"elementary" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "math" .
+"division" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "elementary" .
+"multiplication" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "elementary" .
+"addition" <http://xmlns.com/foaf/0.1/name> "addition" .
+"math" <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Topic> .
+"division" <http://xmlns.com/foaf/0.1/name> "division" .
+"advanced" <http://xmlns.com/foaf/0.1/name> "advanced" .
+"subtraction" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "elementary" .
+"addition" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "elementary" .
+"multiplication" <http://xmlns.com/foaf/0.1/name> "multiplication" .
+"advanced" <http://www.w3.org/2000/01/rdf-schema#subClassOf> "math" .
+"subtraction" <http://xmlns.com/foaf/0.1/name> "subtraction" .
+"math" <http://xmlns.com/foaf/0.1/name> "math" .
+"firsttask" <http://xmlns.com/foaf/0.1/name> "firsttask" .
+
